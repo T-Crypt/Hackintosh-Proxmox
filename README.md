@@ -52,5 +52,8 @@ cores, NATIVE
 For AMD CPUs:
 
 ```
-args: -device isa-applesmc,osk="ourhardworkbythesewordsguardedpleasedontsteal(c)AppleComputerInc" -smbios type=2 -device usb-kbd,bus=ehci.0,port=2 -global nec-usb-xhci.msi=off -cpu host
+args: -device isa-applesmc,osk="(c)AppleComputerInc" -smbios type=2 -device usb-kbd,bus=ehci.0,port=2 -global nec-usb-xhci.msi=off -cpu host
 ```
+
+
+Credit: HSVE
