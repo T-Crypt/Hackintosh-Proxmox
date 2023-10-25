@@ -10,7 +10,7 @@ sudo nano /etc/pve/qemu-server/[VMID].conf
 For Intel CPUs
 Add this to the end of your Hackintosh VM Args:
 
-```
+```bash
 core, NATIVE
 cores, NATIVE
 cores, -smp 3,cores=1,sockets=3,threads=1,maxcpus=3
