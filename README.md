@@ -1,6 +1,6 @@
 # HOW TO FIX HIGH CPU USAGE ON YOUR HACKINTOSH USING PROXMOX
 
-This is for you how to fix the High CPU Usage issue on your new way hackintosh using our new way with proxmox. 
+This is for you to fix the High CPU Usage issue on your new way hackintosh using our new way with proxmox. 
 
 
 ```bash
