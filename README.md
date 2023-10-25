@@ -18,6 +18,7 @@ cores, NATIVE
 cores, -smp 5,cores=1,sockets=5,threads=1,maxcpus=5
 cores, -smp 6,cores=2,sockets=3,threads=1,maxcpus=6
 cores, -smp 7,cores=1,sockets=7,threads=1,maxcpus=7
+cores, -smp 8,cores=4,sockets=2,threads=1,maxcpus=8
 cores, NATIVE
 cores, -smp 9,cores=1,sockets=9,threads=1,maxcpus=9
 cores, -smp 10,cores=2,sockets=5,threads=1,maxcpus=10
